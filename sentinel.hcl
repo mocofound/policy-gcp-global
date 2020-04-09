@@ -1,5 +1,5 @@
 policy "enforce-mandatory-labels" {
-    enforcement_level = "advisory"
+    enforcement_level = "hard-mandatory"
 }
 
 policy "block-allow-all-cidr" {
